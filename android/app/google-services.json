@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411470943584",
+    "project_id": "firesamplechat",
+    "storage_bucket": "firesamplechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411470943584:android:a1cd110b10d4d194f9fa05",
+        "android_client_info": {
+          "package_name": "com.example.fluttersample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411470943584-1kf4549m1t4ccal62qki0oq37jor3aq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8PzYMWAOd6hDwKQmW3bLT7cLg1k4sQio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411470943584-1kf4549m1t4ccal62qki0oq37jor3aq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
